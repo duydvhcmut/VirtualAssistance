@@ -11,3 +11,7 @@ Current supported services:
   3. Open website. Command: "Open ***.com" ("*** is the address of the website", for e.g "Open google.com")
   4. Search and open video from Youtube. Command: "Open youtube" followed by the name to search. for e.g "Open youtube best song ever". He will search "best song ever" on Youtube      and open the first video from the result.
   5. Greeting, ask some questions like "Daniel, how are you?" or "Daniel, what's your name?". He will answer
+  
+  HOW TO RUN:
+    1. Install all the services from file pip_to_install.txt
+    2. Run the program from main.py
