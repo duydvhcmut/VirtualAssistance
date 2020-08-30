@@ -1,5 +1,5 @@
 # VirtualAssistance
-This Virtual Assistance's name is Daniel. He received the command through our voice.
+This Virtual Assistance's name is Daniel. He receives the command through our voice.
 To activate him, say "Daniel". He will replies: "How can I help you?". After that user can give him the command.
 Can do it in another other way by saying his name followed by the command. For e.g: "Daniel, open Chrome"
 
